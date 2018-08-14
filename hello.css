@@ -1,0 +1,16 @@
+body {
+width:100%;
+background-color: white;
+margin: 0;}
+.change-color {
+  background-color: lavender;
+}
+img {
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 30px;
+  padding-bottom: 70px;
+border: 10px dashed rgba(245, 117, 117, 0.486);
+width: 300px;
+
+}
